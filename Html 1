@@ -1,0 +1,36 @@
+h1, h2 {
+  font-family: 'Your Unique Font', sans-serif;
+}
+To style the div with different background color, text color, and padding:
+
+div {
+  background-color: #ffffff;
+  color: #333333;
+  padding: 20px;
+}
+
+
+To apply a unique font to the headings (<h1> and <h2>):
+
+h1, h2 {
+  font-family: 'Your Unique Font', sans-serif;
+}
+
+
+To add a border around the <section> elements with rounded corners:
+
+section {
+  border: 2px solid #cccccc;
+  border-radius: 10px;
+}
+
+
+To style the list items (<li>) inside the skills section with a different color on hover:
+
+css
+Copy code
+.skills li:hover {
+  color: #ff0000;
+}
+
+
