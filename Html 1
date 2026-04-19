@@ -1,5 +1,5 @@
 h1, h2 {
-  font-family: 'Your Unique Font', sans-serif;
+  font-family:  sans-serif;
 }
 To style the div with different background color, text color, and padding:
 
